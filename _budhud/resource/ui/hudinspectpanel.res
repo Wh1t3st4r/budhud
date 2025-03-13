@@ -5,9 +5,10 @@
         "xpos"                                                      "r200"
         "bgcolor_override"                                          "bh_ItemPanel"
         "PaintBackgroundType"                                       "1"
-
         "model_center_y"                                            "1"
         "model_center_x"                                            "1"
+        "model_wide"                                                "85"
+        "model_tall"                                                "55"
         "noitem_use_fullpanel"                                      "0"
         "resize_to_text"                                            "1"
 
